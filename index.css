@@ -1,0 +1,45 @@
+input {
+  display: block;
+  width: 80%;
+  padding: 4px 5px;
+  color: #008CBA;
+}
+
+* {
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight:500 ;
+}
+
+body {
+  padding-left: 10px;
+  padding-top: 10px;
+  min-width: 470px;
+}
+
+button {
+  background-color: #008CBA; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border: 2px solid #008CBA;
+}
+
+#delete-btn {
+  background-color: white; /* Green */
+  border: 2px solid #008CBA;
+  color: #008CBA;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+
+ul {
+  color: #00769d;
+  font-size: 14px;
+}
